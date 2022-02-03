@@ -1,0 +1,1996 @@
+fileFormatVersion: 2
+guid: 14512d42ec5724dd5ae7252566124195
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: npc_cactus__x1_talk_png_1354833515_0
+  - first:
+      213: 21300002
+    second: npc_cactus__x1_talk_png_1354833515_1
+  - first:
+      213: 21300004
+    second: npc_cactus__x1_talk_png_1354833515_2
+  - first:
+      213: 21300006
+    second: npc_cactus__x1_talk_png_1354833515_3
+  - first:
+      213: 21300008
+    second: npc_cactus__x1_talk_png_1354833515_4
+  - first:
+      213: 21300010
+    second: npc_cactus__x1_talk_png_1354833515_5
+  - first:
+      213: 21300012
+    second: npc_cactus__x1_talk_png_1354833515_6
+  - first:
+      213: 21300014
+    second: npc_cactus__x1_talk_png_1354833515_7
+  - first:
+      213: 21300016
+    second: npc_cactus__x1_talk_png_1354833515_8
+  - first:
+      213: 21300018
+    second: npc_cactus__x1_talk_png_1354833515_9
+  - first:
+      213: 21300020
+    second: npc_cactus__x1_talk_png_1354833515_10
+  - first:
+      213: 21300022
+    second: npc_cactus__x1_talk_png_1354833515_11
+  - first:
+      213: 21300024
+    second: npc_cactus__x1_talk_png_1354833515_12
+  - first:
+      213: 21300026
+    second: npc_cactus__x1_talk_png_1354833515_13
+  - first:
+      213: 21300028
+    second: npc_cactus__x1_talk_png_1354833515_14
+  - first:
+      213: 21300030
+    second: npc_cactus__x1_talk_png_1354833515_15
+  - first:
+      213: 21300032
+    second: npc_cactus__x1_talk_png_1354833515_16
+  - first:
+      213: 21300034
+    second: npc_cactus__x1_talk_png_1354833515_17
+  - first:
+      213: 21300036
+    second: npc_cactus__x1_talk_png_1354833515_18
+  - first:
+      213: 21300038
+    second: npc_cactus__x1_talk_png_1354833515_19
+  - first:
+      213: 21300040
+    second: npc_cactus__x1_talk_png_1354833515_20
+  - first:
+      213: 21300042
+    second: npc_cactus__x1_talk_png_1354833515_21
+  - first:
+      213: 21300044
+    second: npc_cactus__x1_talk_png_1354833515_22
+  - first:
+      213: 21300046
+    second: npc_cactus__x1_talk_png_1354833515_23
+  - first:
+      213: 21300048
+    second: npc_cactus__x1_talk_png_1354833515_24
+  - first:
+      213: 21300050
+    second: npc_cactus__x1_talk_png_1354833515_25
+  - first:
+      213: 21300052
+    second: npc_cactus__x1_talk_png_1354833515_26
+  - first:
+      213: 21300054
+    second: npc_cactus__x1_talk_png_1354833515_27
+  - first:
+      213: 21300056
+    second: npc_cactus__x1_talk_png_1354833515_28
+  - first:
+      213: 21300058
+    second: npc_cactus__x1_talk_png_1354833515_29
+  - first:
+      213: 21300060
+    second: npc_cactus__x1_talk_png_1354833515_30
+  - first:
+      213: 21300062
+    second: npc_cactus__x1_talk_png_1354833515_31
+  - first:
+      213: 21300064
+    second: npc_cactus__x1_talk_png_1354833515_32
+  - first:
+      213: 21300066
+    second: npc_cactus__x1_talk_png_1354833515_33
+  - first:
+      213: 21300068
+    second: npc_cactus__x1_talk_png_1354833515_34
+  - first:
+      213: 21300070
+    second: npc_cactus__x1_talk_png_1354833515_35
+  - first:
+      213: 21300072
+    second: npc_cactus__x1_talk_png_1354833515_36
+  - first:
+      213: 21300074
+    second: npc_cactus__x1_talk_png_1354833515_37
+  - first:
+      213: 21300076
+    second: npc_cactus__x1_talk_png_1354833515_38
+  - first:
+      213: 21300078
+    second: npc_cactus__x1_talk_png_1354833515_39
+  - first:
+      213: 21300080
+    second: npc_cactus__x1_talk_png_1354833515_40
+  - first:
+      213: 21300082
+    second: npc_cactus__x1_talk_png_1354833515_41
+  - first:
+      213: 21300084
+    second: npc_cactus__x1_talk_png_1354833515_42
+  - first:
+      213: 21300086
+    second: npc_cactus__x1_talk_png_1354833515_43
+  - first:
+      213: 21300088
+    second: npc_cactus__x1_talk_png_1354833515_44
+  - first:
+      213: 21300090
+    second: npc_cactus__x1_talk_png_1354833515_45
+  - first:
+      213: 21300092
+    second: npc_cactus__x1_talk_png_1354833515_46
+  - first:
+      213: 21300094
+    second: npc_cactus__x1_talk_png_1354833515_47
+  - first:
+      213: 21300096
+    second: npc_cactus__x1_talk_png_1354833515_48
+  - first:
+      213: 21300098
+    second: npc_cactus__x1_talk_png_1354833515_49
+  - first:
+      213: 21300100
+    second: npc_cactus__x1_talk_png_1354833515_50
+  - first:
+      213: 21300102
+    second: npc_cactus__x1_talk_png_1354833515_51
+  - first:
+      213: 21300104
+    second: npc_cactus__x1_talk_png_1354833515_52
+  - first:
+      213: 21300106
+    second: npc_cactus__x1_talk_png_1354833515_53
+  - first:
+      213: 21300108
+    second: npc_cactus__x1_talk_png_1354833515_54
+  - first:
+      213: 21300110
+    second: npc_cactus__x1_talk_png_1354833515_55
+  - first:
+      213: 21300112
+    second: npc_cactus__x1_talk_png_1354833515_56
+  - first:
+      213: 21300114
+    second: npc_cactus__x1_talk_png_1354833515_57
+  - first:
+      213: 21300116
+    second: npc_cactus__x1_talk_png_1354833515_58
+  - first:
+      213: 21300118
+    second: npc_cactus__x1_talk_png_1354833515_59
+  - first:
+      213: 21300120
+    second: npc_cactus__x1_talk_png_1354833515_60
+  - first:
+      213: 21300122
+    second: npc_cactus__x1_talk_png_1354833515_61
+  - first:
+      213: 21300124
+    second: npc_cactus__x1_talk_png_1354833515_62
+  - first:
+      213: 21300126
+    second: npc_cactus__x1_talk_png_1354833515_63
+  - first:
+      213: 21300128
+    second: npc_cactus__x1_talk_png_1354833515_64
+  - first:
+      213: 21300130
+    second: npc_cactus__x1_talk_png_1354833515_65
+  - first:
+      213: 21300132
+    second: npc_cactus__x1_talk_png_1354833515_66
+  - first:
+      213: 21300134
+    second: npc_cactus__x1_talk_png_1354833515_67
+  - first:
+      213: 21300136
+    second: npc_cactus__x1_talk_png_1354833515_68
+  - first:
+      213: 21300138
+    second: npc_cactus__x1_talk_png_1354833515_69
+  - first:
+      213: 21300140
+    second: npc_cactus__x1_talk_png_1354833515_70
+  - first:
+      213: 21300142
+    second: npc_cactus__x1_talk_png_1354833515_71
+  - first:
+      213: 21300144
+    second: npc_cactus__x1_talk_png_1354833515_72
+  - first:
+      213: 21300146
+    second: npc_cactus__x1_talk_png_1354833515_73
+  - first:
+      213: 21300148
+    second: npc_cactus__x1_talk_png_1354833515_74
+  - first:
+      213: 21300150
+    second: npc_cactus__x1_talk_png_1354833515_75
+  - first:
+      213: 21300152
+    second: npc_cactus__x1_talk_png_1354833515_76
+  - first:
+      213: 21300154
+    second: npc_cactus__x1_talk_png_1354833515_77
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1512
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab43e5849be9414a82029b05785a0e2
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_1
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1512
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: decc34b4bc061754a8d45326eee392ef
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_2
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1512
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f237e956f3f59e46bcd6337c1fe8e1a
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_3
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1512
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1ac8f53f3e3b647b45e1cc4358015b
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_4
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1512
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645f81a891196104693a36d3e193fa1a
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_5
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1512
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721ef9c12a235ca46b53b6e02fe69f28
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1386
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0059f214c8c30142a8074f87f143716
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_7
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1386
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f09874973f287408e2fad454401c7f
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_8
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1386
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146526160560e044b9d4a5ae8fae5078
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_9
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1386
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54764234aa5e3c47ad280e2682058c8
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_10
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1386
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7aa660d9fb6043478db52f707028ef2
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_11
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1386
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628bd3d92cb8d1046ab392f3be01932a
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1260
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f1c9892e4ca0c4fb32a1c1c8289279
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_13
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1260
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07bdf8a62f1505a4b9b5a663fc1f7471
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_14
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1260
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc3d1654c2c84247b6e7a5d3e19649c
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_15
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1260
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2cdae1ad050ea349884cf2bb96cc85e
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_16
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1260
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5660786d4b1058945a45a7b8a8a635e8
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_17
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1260
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a159d9eaa67245041965bf50572048b3
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1134
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f694d8f228c8fb8478a12ffc6ba0a46a
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_19
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1134
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c9ca3af7e6f20418ddb376beca7914
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_20
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1134
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806ed30b7fc51a64caa84d8404e923db
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_21
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1134
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ada7245ffbde75469d9c3a588b85607
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_22
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1134
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba813bf1b77fac4ab36926aa9917937
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_23
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1134
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acbba806a8515aa489db71af351a6761
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1008
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665d3d714da97e840a0b508cb6856063
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_25
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1008
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6786fce13c1d7874083311697756af4c
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_26
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1008
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a11e63226a2064244be9f0312e4b4538
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_27
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1008
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02e9219a742934478407a1104a037a0
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_28
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1008
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9cae73004fdbe6489741ae5f7d2644c
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_29
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1008
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0bdfa7ecb998741a5113802e04b2ca
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 882
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c26d085554a7c48abcfcb622e16f7e
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_31
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 882
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5a0c709bbc07042961615c9648269c
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_32
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 882
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913b1124b62f7e74b86408a6c9f0a3c6
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_33
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 882
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d53876ac60a07c47b5947e9488e4e79
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_34
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 882
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25bd84ac4ce150c4db1cdf68d06339e8
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_35
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 882
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7206f0a46b7bc3c4482fa6825ea2c2c6
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 756
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bad396f99572814d9017203483907ac
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_37
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 756
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e35ad7219fe2d741b1fad67054ef2b8
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_38
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 756
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5507caf93042d234b9c14d014a96a2ca
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_39
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 756
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05b37b2f7f51c7478aa6857cb9505d9
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_40
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 756
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8622bf8bb3303e84495f51a570f38195
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_41
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 756
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f95085036aba3f419e7d21b52636f1a
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 630
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a63ba12504cf5047860265af710b671
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_43
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 630
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3e2aaf252ee9f46925b83736bc5985
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_44
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 630
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555a1ce489fb57c4398e2a8956fa7ec6
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_45
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 630
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1974ce9c076d95c40b0793f81cc973ac
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_46
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 630
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec75fd4f05df14449cdc525dee18dac
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_47
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 630
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d0f4fef592cd346b72d18adcb41ab8
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159ffd6bb83489b4e983e114d70b1cf2
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_49
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 504
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7eac67bfc0db044ab016371f13f314
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_50
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 504
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4077ad6bdeff84fbce94b7836dbe4c
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_51
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 504
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b3f52155dc720419dc562fc3df62ef
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_52
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 504
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab49cb1b9591f643b6eb83b05aa235b
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_53
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 504
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a62ad9757ff2948bf41d0987f917be
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 378
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33f9c0e33dfcbd4584287d20a8bcfef
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_55
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 378
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9afd41b0ac0a93141a35ce00ff40a3fb
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_56
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 378
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c852c080b84fc848aa97c84bada5cb1
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_57
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 378
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651cf49e298119847b00125fd21f4e52
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_58
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 378
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c43cb8ffdb655e41b73b0ddfbb5b48a
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_59
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 378
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d72ed29eacaf6442a413f8d8b3e17f7
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb8bd52209dc9643a1e085bf17814c8
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_61
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 252
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a5712d522a14041a0a1b7997e170d5
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_62
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 252
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86b2111a4a399f48807161b53425387
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_63
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 252
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2380a5cdc9eed8443b3c0a83d86b8b3d
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_64
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 252
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf94c97e784f184687ad609ba70bd3f
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_65
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 252
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb3b96f3d9ffa3488ba68e0233450d4
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a06efc1d808e64a83bea41d95095f8
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_67
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 126
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25be41e8e05f03548aee1e6747064525
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_68
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 126
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd68ae2927af0f499062006653964d7
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_69
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 126
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69cdb0ec1aee40b44974b25fac91ebd7
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_70
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 126
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a057dba796b33f34c8681fc46f334959
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_71
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 126
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb5a10bf0080e44eb3f11cf910329e4
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853395fc5708e2a41b7ddee6276b1a63
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cactus__x1_talk_png_1354833515_73
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 0
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daafde13e6de86041a3e2afb83f9e693
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 409d8a6555d8de443a2065ed5970112f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      npc_cactus__x1_talk_png_1354833515_38: 21300076
+      npc_cactus__x1_talk_png_1354833515_5: 21300010
+      npc_cactus__x1_talk_png_1354833515_16: 21300032
+      npc_cactus__x1_talk_png_1354833515_42: 21300084
+      npc_cactus__x1_talk_png_1354833515_36: 21300072
+      npc_cactus__x1_talk_png_1354833515_73: 21300146
+      npc_cactus__x1_talk_png_1354833515_69: 21300138
+      npc_cactus__x1_talk_png_1354833515_14: 21300028
+      npc_cactus__x1_talk_png_1354833515_32: 21300064
+      npc_cactus__x1_talk_png_1354833515_64: 21300128
+      npc_cactus__x1_talk_png_1354833515_45: 21300090
+      npc_cactus__x1_talk_png_1354833515_8: 21300016
+      npc_cactus__x1_talk_png_1354833515_37: 21300074
+      npc_cactus__x1_talk_png_1354833515_62: 21300124
+      npc_cactus__x1_talk_png_1354833515_12: 21300024
+      npc_cactus__x1_talk_png_1354833515_24: 21300048
+      npc_cactus__x1_talk_png_1354833515_25: 21300050
+      npc_cactus__x1_talk_png_1354833515_52: 21300104
+      npc_cactus__x1_talk_png_1354833515_57: 21300114
+      npc_cactus__x1_talk_png_1354833515_41: 21300082
+      npc_cactus__x1_talk_png_1354833515_23: 21300046
+      npc_cactus__x1_talk_png_1354833515_30: 21300060
+      npc_cactus__x1_talk_png_1354833515_61: 21300122
+      npc_cactus__x1_talk_png_1354833515_58: 21300116
+      npc_cactus__x1_talk_png_1354833515_68: 21300136
+      npc_cactus__x1_talk_png_1354833515_33: 21300066
+      npc_cactus__x1_talk_png_1354833515_31: 21300062
+      npc_cactus__x1_talk_png_1354833515_72: 21300144
+      npc_cactus__x1_talk_png_1354833515_34: 21300068
+      npc_cactus__x1_talk_png_1354833515_1: 21300002
+      npc_cactus__x1_talk_png_1354833515_56: 21300112
+      npc_cactus__x1_talk_png_1354833515_7: 21300014
+      npc_cactus__x1_talk_png_1354833515_63: 21300126
+      npc_cactus__x1_talk_png_1354833515_10: 21300020
+      npc_cactus__x1_talk_png_1354833515_51: 21300102
+      npc_cactus__x1_talk_png_1354833515_53: 21300106
+      npc_cactus__x1_talk_png_1354833515_11: 21300022
+      npc_cactus__x1_talk_png_1354833515_44: 21300088
+      npc_cactus__x1_talk_png_1354833515_49: 21300098
+      npc_cactus__x1_talk_png_1354833515_71: 21300142
+      npc_cactus__x1_talk_png_1354833515_2: 21300004
+      npc_cactus__x1_talk_png_1354833515_9: 21300018
+      npc_cactus__x1_talk_png_1354833515_46: 21300092
+      npc_cactus__x1_talk_png_1354833515_3: 21300006
+      npc_cactus__x1_talk_png_1354833515_20: 21300040
+      npc_cactus__x1_talk_png_1354833515_27: 21300054
+      npc_cactus__x1_talk_png_1354833515_18: 21300036
+      npc_cactus__x1_talk_png_1354833515_19: 21300038
+      npc_cactus__x1_talk_png_1354833515_70: 21300140
+      npc_cactus__x1_talk_png_1354833515_55: 21300110
+      npc_cactus__x1_talk_png_1354833515_50: 21300100
+      npc_cactus__x1_talk_png_1354833515_29: 21300058
+      npc_cactus__x1_talk_png_1354833515_22: 21300044
+      npc_cactus__x1_talk_png_1354833515_47: 21300094
+      npc_cactus__x1_talk_png_1354833515_65: 21300130
+      npc_cactus__x1_talk_png_1354833515_66: 21300132
+      npc_cactus__x1_talk_png_1354833515_28: 21300056
+      npc_cactus__x1_talk_png_1354833515_13: 21300026
+      npc_cactus__x1_talk_png_1354833515_4: 21300008
+      npc_cactus__x1_talk_png_1354833515_54: 21300108
+      npc_cactus__x1_talk_png_1354833515_15: 21300030
+      npc_cactus__x1_talk_png_1354833515_48: 21300096
+      npc_cactus__x1_talk_png_1354833515_60: 21300120
+      npc_cactus__x1_talk_png_1354833515_21: 21300042
+      npc_cactus__x1_talk_png_1354833515_39: 21300078
+      npc_cactus__x1_talk_png_1354833515_59: 21300118
+      npc_cactus__x1_talk_png_1354833515_43: 21300086
+      npc_cactus__x1_talk_png_1354833515_26: 21300052
+      npc_cactus__x1_talk_png_1354833515_6: 21300012
+      npc_cactus__x1_talk_png_1354833515_35: 21300070
+      npc_cactus__x1_talk_png_1354833515_40: 21300080
+      npc_cactus__x1_talk_png_1354833515_67: 21300134
+      npc_cactus__x1_talk_png_1354833515_17: 21300034
+      npc_cactus__x1_talk_png_1354833515_0: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
