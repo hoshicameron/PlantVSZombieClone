@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Spawn : MonoBehaviour
+public class Spawner : MonoBehaviour
 {
     [SerializeField] private float spawnDelay = 0;
     [SerializeField] private float repeatRate = 0;
@@ -16,9 +16,6 @@ public class Spawn : MonoBehaviour
 
     private void SpawnEnemies()
     {
-/*        Instantiate(enemyPrefabArray[Random.Range(0, enemyPrefabArray.Length)], transform.position,
-            Quaternion.identity);*/
-
         GameObject enemy = PoolManager.Instance.ReuseObject(enemyPrefabArray[Random.Range(0, enemyPrefabArray.Length)],
             transform.position, Quaternion.identity);
         enemy.SetActive(true);

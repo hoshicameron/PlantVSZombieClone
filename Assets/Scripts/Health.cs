@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class HealthManager : MonoBehaviour
+public class Health : MonoBehaviour
 {
     [SerializeField] private int maxHealth = 50;
     [SerializeField] private HealthBar healthBar;
@@ -11,7 +11,10 @@ public class HealthManager : MonoBehaviour
 
     private void OnEnable()
     {
+        // Set health to max
         currentHealth = maxHealth;
+
+        // Set health bar values
         healthBar.SetMaxHealth(maxHealth);
         healthBar.SetHealth(currentHealth);
 
@@ -19,6 +22,7 @@ public class HealthManager : MonoBehaviour
 
     public void TakeDamage(int damage)
     {
+        // If object is alive
         if (currentHealth > 0)
         {
             currentHealth -= damage;

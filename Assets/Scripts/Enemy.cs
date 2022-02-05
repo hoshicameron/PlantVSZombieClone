@@ -36,8 +36,10 @@ public class Enemy : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        // set collision layers
         loseLayer = LayerMask.NameToLayer("LoseCollider");
         defenderLayer = LayerMask.NameToLayer("Defender");
+
         animator = GetComponent<Animator>();
 
 
@@ -46,6 +48,7 @@ public class Enemy : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        // Move object while not attacking
         if (!isAttacking)
         {
             transform.Translate(Vector2.left *Time.deltaTime*speed);
@@ -54,6 +57,7 @@ public class Enemy : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
+        // Check collision layers
         if (other.gameObject.layer == loseLayer)
         {
             EventHandler.CallEndGameEvent();
@@ -72,9 +76,10 @@ public class Enemy : MonoBehaviour
     {
         if (other.gameObject.layer != defenderLayer) return;
 
+        // if fox then ignore it
         if(other.gameObject.GetComponent<Stone>() && enemyType == EnemyType.Fox) return;
 
-
+        // Start attacking
         isAttacking = true;
         target = other.gameObject;
         animator.SetBool(Attack,isAttacking);
@@ -85,6 +90,7 @@ public class Enemy : MonoBehaviour
     {
         if (other.gameObject.layer != defenderLayer) return;
 
+        // Stop attacking
         isAttacking = false;
         target = null;
         animator.SetBool(Attack,isAttacking);
@@ -94,7 +100,7 @@ public class Enemy : MonoBehaviour
     {
         if (target!=null)
         {
-            target.GetComponent<HealthManager>().TakeDamage(damage);
+            target.GetComponent<Health>().TakeDamage(damage);
         }
     }
 
@@ -169,6 +175,5 @@ public class Enemy : MonoBehaviour
     public enum EnemyType
     {
         Fox,Lizard,None
-
     }
 }

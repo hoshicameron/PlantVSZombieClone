@@ -32,7 +32,7 @@ public class Projectile : MonoBehaviour
 
 	    } else
 	    {
-		    collision.GetComponent<HealthManager>().TakeDamage(damage);
+		    collision.GetComponent<Health>().TakeDamage(damage);
 
 		    GameObject effect =
 			    PoolManager.Instance.ReuseObject(hitEffectPrefab, transform.position, Quaternion.identity);

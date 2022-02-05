@@ -13,8 +13,10 @@ public class AudioEffectController : MonoBehaviour
 
     public  void PlaySoundEffect()
     {
+        //Play audio clip
         audioSource.PlayOneShot(audioSource.clip);
 
+        // Disable game object after delay
         StartCoroutine(DisableGameObject(audioSource.clip.length));
     }
 

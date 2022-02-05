@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ShootSystem : MonoBehaviour
+public class Shoot : MonoBehaviour
 {
     [SerializeField] private GameObject projectilePrefab;
     [SerializeField] private Transform gunTransform;
@@ -40,7 +40,7 @@ public class ShootSystem : MonoBehaviour
 
     public void Fire()
     {
-        //Instantiate(projectilePrefab, gunTransform.position, Quaternion.identity);
+        // Fire projectile
         GameObject projectile =
             PoolManager.Instance.ReuseObject(projectilePrefab, gunTransform.position, Quaternion.identity);
         projectile.SetActive(true);

@@ -22,10 +22,11 @@ public class LevelManager : MonoBehaviour
         }
         else
         {
-            Invoke("LoadStart", autoLoadNextLevel);
+            Invoke(nameof(LoadStart), autoLoadNextLevel);
         }
     }
-    public void LoadStart()
+
+    private void LoadStart()
     {
         LoadLevel("01a Start");
     }
@@ -34,23 +35,22 @@ public class LevelManager : MonoBehaviour
         Debug.Log("Level load requested: "+name);
         StartCoroutine(LoadYourAsyncScene(name));
     }
-
-    public void QuitGame()
-    {
-        Debug.Log("Quit Game Requested.");
-        Application.Quit();
-    }
     IEnumerator LoadYourAsyncScene(string name)
     {
         AsyncOperation asyncLoad = SceneManager.LoadSceneAsync(name);
 
-        //Wait until the asynchronos scene fully loads
         while (!asyncLoad.isDone)
         {
             yield return null;
         }
 
     }
+    public void QuitGame()
+    {
+        Debug.Log("Quit Game Requested.");
+        Application.Quit();
+    }
+
 
 
 }

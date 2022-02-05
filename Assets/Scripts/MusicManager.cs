@@ -10,7 +10,6 @@ public class MusicManager : MonoBehaviour {
     private void Awake()
     {
         DontDestroyOnLoad(gameObject);
-        Debug.Log("Don't destroy on load: "+ name);
     }
 
     // called first
@@ -18,12 +17,15 @@ public class MusicManager : MonoBehaviour {
     {
         SceneManager.sceneLoaded += OnSceneLoaded;
     }
+    void OnDisable()
+    {
+        SceneManager.sceneLoaded -= OnSceneLoaded;
+    }
 
     // called second
     void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
         AudioClip thisLevelMusic = levelMusicChangeArray[scene.buildIndex];
-        Debug.Log("Plying clip:" + thisLevelMusic);
 
         if (thisLevelMusic)
         {
@@ -40,11 +42,7 @@ public class MusicManager : MonoBehaviour {
         audioSource = GetComponent<AudioSource>();
     }
     // called when the game is terminated
-    void OnDisable()
-    {
-        Debug.Log("OnDisable");
-        SceneManager.sceneLoaded -= OnSceneLoaded;
-    }
+
 
     public void SetVolume(float volume)
     {

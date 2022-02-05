@@ -11,11 +11,13 @@ public class DefenderButton : MonoBehaviour
 
     private void Start()
     {
+        // Set text
         costText.SetText(defenderCost.ToString());
     }
 
     public void SetDefenderPrefab()
     {
+        // Invoke defender selection event
         EventHandler.CallDefenderSelectionEvent(selectedDefenderPrefab,defenderCost);
     }
 

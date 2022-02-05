@@ -11,8 +11,6 @@ public class Stone : MonoBehaviour {
     {
         animator = GetComponent<Animator>();
     }
-
-    //only being use as a tag for now
     private void OnTriggerStay2D(Collider2D collision)
     {
         if(collision.gameObject.GetComponent<Enemy>().Type!=Enemy.EnemyType.Lizard) return;

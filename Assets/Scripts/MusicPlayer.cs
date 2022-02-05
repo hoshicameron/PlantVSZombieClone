@@ -17,12 +17,11 @@ public class MusicPlayer : MonoBehaviour {
         if (instance != null && instance != this)
         {
             Destroy(gameObject);
-            print("Duplicate music player self-destructing!");
         }
         else
         {
             instance = this;
-            GameObject.DontDestroyOnLoad(gameObject);
+            DontDestroyOnLoad(gameObject);
             music = GetComponent<AudioSource>();
             music.clip = startClip;
             music.loop = true;
@@ -31,23 +30,18 @@ public class MusicPlayer : MonoBehaviour {
         }
 
     }
-
-    // Use this for initialization
-    void Start ()
+    void OnEnable()
     {
-        
-        
-    }
-
-     void OnEnable()
-    {
-        Debug.Log("OnEnable called");
         SceneManager.sceneLoaded += OnSceneLoaded;
     }
-    
+
+    void OnDisable()
+    {
+        SceneManager.sceneLoaded -= OnSceneLoaded;
+    }
+
      void OnSceneLoaded(Scene scene,LoadSceneMode mode)
     {
-        Debug.Log("Music player loaded level"+ scene.buildIndex.ToString());
         music.Stop();
         if (scene.buildIndex == 0) { music.clip = startClip; }
         if (scene.buildIndex == 1) { music.clip = gameClip;  }
@@ -55,9 +49,5 @@ public class MusicPlayer : MonoBehaviour {
         music.loop = true;
         music.Play();
     }
-    void OnDisable()
-    {
-        Debug.Log("OnDisable");
-        SceneManager.sceneLoaded -= OnSceneLoaded;
-    }
+
 }

@@ -8,6 +8,7 @@ public class Defender : MonoBehaviour
 
     private void OnDisable()
     {
+        // Reset related spot after defender destroyed
         if (spot != null)
         {
             spot.ResetSpot();
